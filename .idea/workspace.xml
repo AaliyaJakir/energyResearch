@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40696d72-f52f-4a54-91bb-e139c1721657" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/US Bank holidays.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exploring_bing_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exploring_bing_data.ipynb" afterDir="false" />
     </list>
@@ -31,12 +33,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/env" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../COIEnergy" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aaliy\Documents\Projects\GitHub\energyResearch\Code" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="env" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -74,11 +81,23 @@
       <option name="presentableId" value="Default" />
       <updated>1649387871290</updated>
       <workItem from="1649387874055" duration="4917000" />
-      <workItem from="1649537291200" duration="4972000" />
+      <workItem from="1649537291200" duration="10272000" />
+      <workItem from="1649970342588" duration="3819000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
